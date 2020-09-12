@@ -1,3 +1,3 @@
 # spacex-launches
 
-An app that uses GraphQL, Express, React, Apollo, and the SpaceX API.
+An app that uses GraphQL, Express, React, Apollo, and the SpaceX API. Credits to Traversy Media.
