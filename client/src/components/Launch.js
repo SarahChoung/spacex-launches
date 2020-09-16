@@ -58,6 +58,10 @@ function LaunchQuery(props) {
         <li className="list-group-item">Rocket Name: {rocket_name}</li>
         <li className="list-group-item">Rocket Type: {rocket_type}</li>
       </ul>
+      <hr />
+      <Link to="/" className="btn btn-secondary">
+        Back
+      </Link>
     </div>
   );
 }
